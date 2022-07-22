@@ -61,7 +61,7 @@ input{
     background-color: black;
     color: white;
 }
-@media(max-width:489px){
+@media(max-width:416px){
     h1{
         font-size: 30px;
     }
