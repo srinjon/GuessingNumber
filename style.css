@@ -61,11 +61,13 @@ input{
     background-color: black;
     color: white;
 }
-@media(max-width:600px){
+@media(max-width:489px){
     h1{
         font-size: 30px;
     }
     .box{
         margin: auto;
+        height: 100%;
+        width:100%;
     }
 }
